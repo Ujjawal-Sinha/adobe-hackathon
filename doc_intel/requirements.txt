@@ -1,0 +1,8 @@
+# ========== requirements.txt ==========
+# Core NLP + embeddings
+torch
+sentence-transformers
+onnxruntime
+PyMuPDF
+numpy
+scikit-learn
